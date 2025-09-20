@@ -94,7 +94,7 @@ cmd({
       'video': {
         'url': _0x5f2691
       },
-      'caption': "Powered By ArslanMD Official"
+      'caption': "Powered By VempireMD Official"
     }, {
       'quoted': _0x40711d
     });
